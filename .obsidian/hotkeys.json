@@ -1,4 +1,13 @@
 {
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "Z"
+    }
+  ],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -31,13 +40,53 @@
       "key": "Numpad4"
     }
   ],
-  "editor:insert-codeblock": [
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-style-settings:show-style-settings-leaf": [
     {
       "modifiers": [
         "Alt",
-        "Meta"
+        "Mod"
       ],
-      "key": "Z"
+      "key": "P"
     }
   ]
 }

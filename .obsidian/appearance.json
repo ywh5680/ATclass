@@ -1,1 +1,6 @@
-{}
+{
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "cssTheme": "Shimmering Focus",
+  "theme": "moonstone"
+}
